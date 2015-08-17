@@ -1,0 +1,6 @@
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\PlanesConsole\PlanesConsole\bin\Debug\PlanesConsole.exe.config
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\PlanesConsole\PlanesConsole\bin\Debug\PlanesConsole.exe
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\PlanesConsole\PlanesConsole\bin\Debug\PlanesConsole.pdb
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\PlanesConsole\PlanesConsole\obj\Debug\PlanesConsole.csprojResolveAssemblyReference.cache
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\PlanesConsole\PlanesConsole\obj\Debug\PlanesConsole.exe
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\PlanesConsole\PlanesConsole\obj\Debug\PlanesConsole.pdb
